@@ -69,4 +69,4 @@
 
 # 联系
 
-![extending-a-theme](/xiaomage.jpg)
+![extending-a-theme](/lianxi.png)
